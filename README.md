@@ -6,7 +6,7 @@ IMPLEMENTATION OF PREDICTING HOSPITAL LENGTH OF STAY USING NEURAL NETWORKS ON MI
 - Analytics use case(s): **`Patient-Level Prediction`**
 - Study type: **`Clinical Application`**
 - Tags: **`Characterisation, MIMIC-III, Casting, Deep Learning, Health Care, Prediction.`**
-- Study lead: **-**
+- Study lead: **Carlos Amaranto, Omar Mejia**
 - Study lead forums tag: **[[Lead tag]](https://forums.ohdsi.org/u/[Lead tag])**
 - Study start date: **`07/04/2022`**
 - Study end date: **-**
